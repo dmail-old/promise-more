@@ -1,4 +1,4 @@
-require('@dmail/iterator/ArrayIterator');
+require('@dmail/iterator');
 require('./promise');
 
 var debug = require('debug');

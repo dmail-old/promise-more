@@ -5,6 +5,7 @@
 	"dependencies": {
 		"@dmail/iterator": "*",
 		"@dmail/for-of": "*",
-		"@dmail/polyfill": "*"
+		"@dmail/polyfill": "*",
+		"@dmail/iterator-map": "*"
 	}
 }

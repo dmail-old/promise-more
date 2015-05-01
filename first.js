@@ -1,5 +1,5 @@
 require('./promise');
-require('@dmail/iterator/ArrayIterator');
+require('@dmail/iterator');
 
 // coule be renamed any like https://github.com/kriskowal/gtor/blob/master/task.js#L414
 // but we are running the promises in serie here

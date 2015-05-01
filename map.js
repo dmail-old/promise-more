@@ -1,4 +1,4 @@
-require('@dmail/iterator/map');
+require('@dmail/iterator-map');
 require('./promise');
 
 // each iterable value is mapped and considered as a then() call and return an array of resolved values

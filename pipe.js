@@ -1,4 +1,4 @@
-require('@dmail/iterator/ArrayIterator');
+require('@dmail/iterator');
 var forOf = require('@dmail/for-of');
 require('./promise');
 

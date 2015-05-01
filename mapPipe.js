@@ -1,4 +1,4 @@
-require('@dmail/iterator/map');
+require('@dmail/iterator-map');
 require('./pipe');
 
 // same as map but values are not collected
