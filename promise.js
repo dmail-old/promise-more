@@ -1,6 +1,6 @@
+require('@dmail/iterator');
 var forOf = require('@dmail/for-of');
-require('@dmail/iterator/ArrayIterator');
-var polyfill = require('@dmail/object/polyfill');
+var polyfill = require('@dmail/polyfill');
 
 var isThenable = require('./is-thenable');
 var callThenable = require('./call-thenable');

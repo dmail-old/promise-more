@@ -3,8 +3,8 @@
 	"version": "0.0.1",
 	"main": "promise.js",
 	"dependencies": {
-		"@dmail/object": "*",
 		"@dmail/iterator": "*",
-		"@dmail/for-of": "*"
+		"@dmail/for-of": "*",
+		"@dmail/polyfill": "*"
 	}
 }
